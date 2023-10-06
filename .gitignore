@@ -15,7 +15,7 @@ __MACOSX
 composer.phar
 ## Comment out if you want to ignore the top concrete5 composer file
 ## /composer.json
-/composer.lock
+## /composer.lock
 ## Ignore vendor directory of packages and etc.
 vendor/
 
